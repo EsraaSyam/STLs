@@ -42,7 +42,9 @@ vector
 -   Resizing the vector- Linear O(N) 
 #
 **Articals**
+
 [geeksforgeeks](https://www.geeksforgeeks.org/vector-in-cpp-stl/?ref=gcse)
+
 
 [cplusplus](https://cplusplus.com/reference/vector/vector/)
 
