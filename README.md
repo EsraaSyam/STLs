@@ -59,7 +59,7 @@ vector
 #
 
 
-## map
+## map :
 ### syntax :
 `// empty map container`
 
