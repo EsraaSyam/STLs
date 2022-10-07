@@ -62,7 +62,8 @@ vector
 ## map
 ### syntax :
 `// empty map container`
-`map<``int``,` `int``> mp;`
+
+`map< int , int > mp;`
 #
 Maps are [associative containers](https://www.geeksforgeeks.org/containers-cpp-stl/) that store elements in a mapped fashion. Each element has a key value and a mapped value. No two mapped values can have the same key values.
 #
