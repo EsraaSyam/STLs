@@ -69,16 +69,15 @@ vector
 `map< int , int > mp;`
 
    `frequancy map `
-   
-    ```ruby
-        for(int i = 0 ; i < n ; i++){
+ ```ruby
+       for(int i = 0 ; i < n ; i++){
             int x;
             cin >> x;
             mp[x]++;
-        }
-        // cout map
-        for(auto& [f, s] : mp) cout << f << "  " << s << "\n";
-     ```
+       }
+       // cout map
+       for(auto& [f, s] : mp) cout << f << "  " << s << "\n";
+   ```
    
     
 #
