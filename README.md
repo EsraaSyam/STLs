@@ -57,3 +57,37 @@ vector
 [Team Olympiad](https://codeforces.com/problemset/problem/490/A)
 
 #
+
+
+## map
+
+### syntax :
+map < key , value > name;
+#
+Maps are [associative containers](https://www.geeksforgeeks.org/containers-cpp-stl/) that store elements in a mapped fashion. Each element has a key value and a mapped value. No two mapped values can have the same key values.
+#
+**Some basic functions associated with Map:**
+
+-   [begin()](https://www.geeksforgeeks.org/mapbegin-end-c-stl/) – Returns an iterator to the first element in the map.
+-   [end()](https://www.geeksforgeeks.org/mapbegin-end-c-stl/) – Returns an iterator to the theoretical element that follows the last element in the map.
+-   [size()](https://www.geeksforgeeks.org/mapsize-c-stl/) – Returns the number of elements in the map.
+-   [empty()](https://www.geeksforgeeks.org/mapempty-c-stl/) – Returns whether the map is empty.
+-   [pair insert(keyvalue, mapvalue)](https://www.geeksforgeeks.org/map-insert-in-c-stl/) – Adds a new element to the map.
+-   [clear()](https://www.geeksforgeeks.org/mapclear-c-stl/) – Removes all the elements from the map.
+#
+
+### Articals
+[geeksforgeeks](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+#
+
+### problems:
+
+[Squares and Cubes](https://codeforces.com/contest/1619/problem/B)
+
+[Letter](https://codeforces.com/gym/323462/problem/C)
+
+[Single Number](https://leetcode.com/problems/single-number/)
+
+[Spell Check](https://codeforces.com/contest/1722/problem/A)
+
+#
