@@ -65,13 +65,17 @@ vector
 
 `map< int , int > mp;`
 // frequancy map
+
     for(int i = 0 ; i < n ; i++){
         int x;
         cin >> x;
         mp[x]++;
     }
+    
     // cout map
+    
     for(auto& [f, s] : mp) cout << f << "  " << s << "\n";
+    
     
 #
 Maps are [associative containers](https://www.geeksforgeeks.org/containers-cpp-stl/) that store elements in a mapped fashion. Each element has a key value and a mapped value. No two mapped values can have the same key values.
