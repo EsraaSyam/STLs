@@ -64,16 +64,15 @@ vector
 `// empty map container`
 
 `map< int , int > mp;`
-// frequancy map
 
+   //frequancy map 
+   
     for(int i = 0 ; i < n ; i++){
         int x;
         cin >> x;
         mp[x]++;
     }
-    
     // cout map
-    
     for(auto& [f, s] : mp) cout << f << "  " << s << "\n";
     
     
