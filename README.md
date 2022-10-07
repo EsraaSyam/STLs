@@ -1,7 +1,7 @@
 ## Vector : 
 **syntax**:
 
-  ```ruby
+  ```cpp
       //1d vector
        vector  <int>  v(sz);
        //2d vector
