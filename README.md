@@ -1,5 +1,6 @@
 ## Vector : 
 **syntax**:
+
      ```//1d vector
        vector  <int>  v(sz);
        //2d vector
