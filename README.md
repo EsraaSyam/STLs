@@ -1,5 +1,14 @@
 ## Vector : 
 **syntax**:
+
+  ```ruby
+      //1d vector
+       vector  <int>  v(sz);
+       //2d vector
+       vector  <vector  <int>>  grid(rows);
+       vector  <vector  <int>>  grid(rows , vector <int> (cols , initial value));
+   ```
+    
  
 #### Functions on vectors
  - [begin()](https://www.geeksforgeeks.org/vectorbegin-vectorend-c-stl/)
