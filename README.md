@@ -69,7 +69,7 @@ vector
 `map< int , int > mp;`
 
    `frequancy map `
- ```ruby
+ ```cpp
        for(int i = 0 ; i < n ; i++){
             int x;
             cin >> x;
