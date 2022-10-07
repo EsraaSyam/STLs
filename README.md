@@ -65,7 +65,7 @@ vector
 
 `map< int , int > mp;`
 
-   //frequancy map 
+   `frequancy map `
    
     for(int i = 0 ; i < n ; i++){
         int x;
