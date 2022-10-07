@@ -107,9 +107,16 @@ Maps are [associative containers](https://www.geeksforgeeks.org/containers-cpp-s
 ## Set
 
 ### syntax :
-set < datatype > name;
-set<int> val; // defining an empty set
-set<int> val = {6, 10, 5, 1}; // defining a set with values
+
+`set < datatype > name;
+// defining an empty set
+
+set<int> val;  	
+
+//defining a set with values
+
+set<int> val = {6, 10, 5, 1};`
+	
 #
 ## **Properties:**
 
