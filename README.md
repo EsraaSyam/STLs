@@ -107,6 +107,8 @@ Maps are [associative containers](https://www.geeksforgeeks.org/containers-cpp-s
 
 [Spell Check](https://codeforces.com/contest/1722/problem/A)
 
+[Restaurant Customers ](https://vjudge.net/contest/517904#problem/G)
+
 #
 ## Set
 
