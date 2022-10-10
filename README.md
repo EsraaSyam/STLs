@@ -39,10 +39,10 @@ vector
 #
 **The time complexity for doing various operations on vectors is**
 -   Random access – constant $O(1)$
--   Insertion or removal of elements at the end – constant O(1)
--   Insertion or removal of elements – linear in the distance to the end of the vector O(N)
--   Knowing the size – constant O(1)
--   Resizing the vector- Linear O(N) 
+-   Insertion or removal of elements at the end – constant $O(1)$
+-   Insertion or removal of elements – linear in the distance to the end of the vector $O(N)$
+-   Knowing the size – constant $O(1)$
+-   Resizing the vector- Linear $O(N)$ 
 #
 **Articals**
 
@@ -148,8 +148,8 @@ defining a set with values
 **The time complexities for doing various operations on sets are:**
 
 
--   Insertion of Elements – **O(log N)**
--   Deletion of Elements – **O(log N)**
+-   Insertion of Elements – **$O(log N)$**
+-   Deletion of Elements – **$O(log N)$**
 
 #
 ### problems :
